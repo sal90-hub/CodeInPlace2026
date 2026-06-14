@@ -1,4 +1,4 @@
-# CodeInPlace2026
+# Stanford CodeInPlace2026
 Recipe Search Engine
 
 📖 Project Description

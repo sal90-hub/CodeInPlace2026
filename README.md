@@ -1,5 +1,6 @@
 # CodeInPlace2026
 Recipe Search Engine
+
 📖 Project Description
 This project is a terminal-based Python application designed to help users find the perfect recipe based on their current ingredients or emotional mood (e.g., "lazy", "sweet").
 

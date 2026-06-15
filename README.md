@@ -1,4 +1,4 @@
-# Stanford Code In Place2026
+# Stanford Code In Place 2026
 Recipe Search Engine
 
 📖 Project Description
